@@ -1,6 +1,0 @@
-hello
-good afternoon
-I created this file for practice purpose
-good evening
-tata bye bye
-bye bye babu
